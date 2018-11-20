@@ -1,29 +1,41 @@
 # My config 
-## Mac install
+##### All my Mac configurations for a fast installation from zero with brew ! 
 
+<hr>
+# iTerm
 
 - install iTerm
 - install  https://brew.sh
-- install Fontpowerline https://github.com/powerline/fonts (download zip)
-- material theme iTerm https://github.com/MartinSeeler/iterm2-material-design
+- install Fontpowerline https://github.com/powerline/fonts (download zip - double-click )
+- material theme iTerm https://github.com/MartinSeeler/iterm2-material-design (run .sh file)
 
 
-<hr>
-
-### Custom font iTerm
+#### Custom font iTerm
 ![alt text](img/iterm_font-Custom.png "Logo Title Text 1")
 
-### Custom color iTerm
+#### Custom color iTerm (material-design-color)
 ![alt text](img/iterm-color.png "Logo Title Text 1")
 
-### fix size window iTerm
+#### fix size window iTerm
 ![alt text](img/window-size.png "Logo Title Text 1")  
 <br />
 
-## Run command after install brew on terminal
+#### Run command 
+Only after brew install.
+
 ```
 curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.sh | sh
 ```
+
+<hr>
+
+# Not in install.sh
+
+- Adobe Creative Cloud
+- Spark (App Store)
+- xCode (App Store)
+
+<hr>
 
 # Brew commande
 ```
@@ -33,8 +45,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
  brew remove packages
  brew cask remove 
 ```
-
-### Verify if brew config is okay
+#### Verify if brew config is okay
 `brew doctor`
 
 &copy; 2018 [AlexLechot](http://alexlechot.ch)
