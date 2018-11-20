@@ -6,9 +6,9 @@
 # iTerm
 
 - install iTerm
-- install  https://brew.sh
-- install Fontpowerline https://github.com/powerline/fonts (download zip - double-click )
-- material theme iTerm https://github.com/MartinSeeler/iterm2-material-design (run .sh file)
+- install  [Brew](https://brew.sh)
+- install [Fontpowerline](https://github.com/powerline/fonts) ( download zip )
+- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file on terminal )
 
 
 #### Custom font iTerm
@@ -33,7 +33,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 - [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
 - [Code notes](https://electronjs.org/apps/code-notes)
-- [Alfred 3](https://www.alfredapp.com/) 
+- [Alfred 3]() 
 - Spark (App Store) 
 - xCode (App Store)
 
