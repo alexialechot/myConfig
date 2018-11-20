@@ -1,7 +1,6 @@
 # My config 
 ##### All my Mac configurations for a fast installation from zero with brew ! 
 
-<hr>
 
 # iTerm
 
@@ -28,7 +27,6 @@ Only after brew install.
 curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.sh | sh
 ```
 
-<hr>
 
 # Not in install.sh
 
@@ -36,7 +34,6 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - Spark (App Store)
 - xCode (App Store)
 
-<hr>
 
 # Brew commande
 ```
@@ -48,5 +45,8 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 #### Verify if brew config is okay
 `brew doctor`
+
+
+<hr>
 
 &copy; 2018 [AlexLechot](http://alexlechot.ch)
