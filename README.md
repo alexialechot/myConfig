@@ -2,6 +2,7 @@
 ##### All my Mac configurations for a fast installation from zero with brew ! 
 
 <hr>
+
 # iTerm
 
 - install iTerm
