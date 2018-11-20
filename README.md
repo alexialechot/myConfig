@@ -1,6 +1,6 @@
 # My config 
 ##### All my Mac configurations for a fast installation from zero with brew ! 
-
+<br>
 
 # iTerm
 
@@ -26,14 +26,14 @@ Only after brew install.
 ```
 curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.sh | sh
 ```
-
+<br>
 
 # Not in install.sh
 
 - Adobe Creative Cloud
 - Spark (App Store)
 - xCode (App Store)
-
+<br>
 
 # Brew commande
 ```
@@ -48,5 +48,6 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 
 <hr>
+<br>
 
 &copy; 2018 [AlexLechot](http://alexlechot.ch)
