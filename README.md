@@ -1,4 +1,5 @@
-# My config 
+# MY CONFIG
+
 ##### All my Mac configurations for a fast installation from zero with brew ! 
 <br>
 
@@ -30,9 +31,12 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 # Not in install.sh
 
-- Adobe Creative Cloud
-- Spark (App Store)
+- [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
+- [Code notes](https://electronjs.org/apps/code-notes)
+- [Alfred 3](https://www.alfredapp.com/) 
+- Spark (App Store) 
 - xCode (App Store)
+
 <br>
 
 # Brew commande
