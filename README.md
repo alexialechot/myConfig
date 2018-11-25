@@ -36,6 +36,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [Alfred 3]() 
 - Spark (App Store) 
 - xCode (App Store)
+- Pages (App Store)
 
 <br>
 
