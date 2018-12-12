@@ -58,8 +58,6 @@ brew doctor
 brew upgrade
 ```
 
-<br>
-<hr>
-<br>
+<br><hr><br>
 
 &copy; 2018 [AlexLechot](http://alexlechot.ch)
