@@ -11,5 +11,5 @@ curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fi
 # install software
 brew cask install gitkraken visual-studio-code arduino \
 firefox unity-hub handbrake onyx whatsapp \
-processing iina Teamviewer webtorrent
+processing iina Teamviewer google-chrome webtorrent
 

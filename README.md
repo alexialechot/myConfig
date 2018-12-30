@@ -37,6 +37,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - Spark (App Store) 
 - xCode (App Store)
 - Pages (App Store)
+- Numbers (App Store)
 
 <br>
 
@@ -49,10 +50,14 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
  brew cask remove 
 ```
 #### Verify if brew config is okay
-`brew doctor`
+```
+brew doctor
+```
+#### Up to date Brew 
+```
+brew upgrade
+```
 
-
-<hr>
-<br>
+<br><hr><br>
 
 &copy; 2018 [AlexLechot](http://alexlechot.ch)
