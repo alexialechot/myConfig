@@ -33,11 +33,11 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 - [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
 - [Code notes](https://electronjs.org/apps/code-notes)
-- [Alfred 3]() 
 - Spark (App Store) 
 - xCode (App Store)
 - Pages (App Store)
 - Numbers (App Store)
+- MindNode (App Store)
 
 <br>
 
@@ -53,9 +53,9 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 brew doctor
 ```
-#### Up to date Brew 
+#### Up to date Brew + cleanning
 ```
-brew upgrade
+brew Up
 ```
 
 <br><hr><br>
