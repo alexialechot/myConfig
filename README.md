@@ -55,7 +55,8 @@ brew doctor
 ```
 #### Up to date Brew + cleanning
 ```
-brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)```
+brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
+```
 
 <br><hr><br>
 
