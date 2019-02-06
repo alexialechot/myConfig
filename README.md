@@ -55,7 +55,7 @@ brew doctor
 ```
 #### Up to date Brew + cleanning
 ```
-brew Up
+brew up
 ```
 
 <br><hr><br>

@@ -1,5 +1,5 @@
-# install fish
-brew install fish
+# install fish + node
+brew install fish node
 
 # add default config fish
 sudo echo /usr/local/bin/fish >> /etc/shells
@@ -12,5 +12,4 @@ curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fi
 brew cask install gitkraken visual-studio-code arduino \
 firefox unity-hub handbrake onyx whatsapp sketch sketchpacks \
 processing iina Teamviewer google-chrome webtorrent imageoptim \
-appcleaner alfred
-
+appcleaner alfred java
