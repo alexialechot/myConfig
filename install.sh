@@ -10,6 +10,6 @@ curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fi
 
 # install software
 brew cask install gitkraken visual-studio-code arduino \
-firefox unity-hub handbrake onyx whatsapp sketch sketchpacks \
-processing iina Teamviewer google-chrome webtorrent imageoptim \
+firefox google-chrome unity-hub handbrake onyx whatsapp  \
+iina Teamviewer webtorrent imageoptim sketch sketchpacks \
 appcleaner alfred java

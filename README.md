@@ -29,6 +29,27 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 <br>
 
+# In install.sh
+
+- gitkraken 
+- visual-studio-code 
+- arduino
+- firefox 
+- google-chrome 
+- unity-hub 
+- handbrake 
+- onyx 
+- whatsapp 
+- sketch 
+- sketchpacks 
+- iina 
+- Teamviewer 
+- webtorrent 
+- imageoptim
+- appcleaner 
+- alfred 
+- java
+
 # Not in install.sh
 
 - [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
