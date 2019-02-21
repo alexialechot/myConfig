@@ -81,4 +81,4 @@ brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 
 <br><hr><br>
 
-&copy; 2018 [Alexia Lechot](http://uxmilk.co)
+&copy; 2018 [Alexia Lechot](https://uxmilk.co)
