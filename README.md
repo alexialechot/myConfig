@@ -6,9 +6,9 @@
 # iTerm
 
 - install iTerm
-- install  [Brew](https://brew.sh)
+- install [Brew](https://brew.sh)
 - install [Fontpowerline](https://github.com/powerline/fonts) ( download zip )
-- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file on terminal )
+- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file )
 
 
 #### Custom font iTerm
@@ -17,7 +17,7 @@
 #### Custom color iTerm (material-design-color)
 ![alt text](img/iterm-color.png "Logo Title Text 1")
 
-#### fix size window iTerm
+#### Fix size window iTerm
 ![alt text](img/window-size.png "Logo Title Text 1")  
 <br />
 
@@ -59,6 +59,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [ ] Pages (App Store)
 - [ ] Numbers (App Store)
 - [ ] MindNode (App Store)
+- [ ] [🤫](https://mac-torrent-download.net)
 
 <br>
 
