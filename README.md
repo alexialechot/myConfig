@@ -6,9 +6,9 @@
 # iTerm
 
 - install iTerm
-- install  [Brew](https://brew.sh)
+- install [Brew](https://brew.sh)
 - install [Fontpowerline](https://github.com/powerline/fonts) ( download zip )
-- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file on terminal )
+- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file )
 
 
 #### Custom font iTerm
@@ -17,7 +17,7 @@
 #### Custom color iTerm (material-design-color)
 ![alt text](img/iterm-color.png "Logo Title Text 1")
 
-#### fix size window iTerm
+#### Fix size window iTerm
 ![alt text](img/window-size.png "Logo Title Text 1")  
 <br />
 
@@ -31,34 +31,35 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 # In install.sh
 
-- gitkraken 
-- visual-studio-code 
-- arduino
-- firefox 
-- google-chrome 
-- unity-hub 
-- handbrake 
-- onyx 
-- whatsapp 
-- sketch 
-- sketchpacks 
-- iina 
-- Teamviewer 
-- webtorrent 
-- imageoptim
-- appcleaner 
-- alfred 
-- java
+- [x] gitkraken 
+- [x] visual-studio-code 
+- [x] arduino
+- [x] firefox 
+- [x] google-chrome 
+- [x] unity-hub 
+- [x] handbrake 
+- [x] onyx 
+- [x] whatsapp 
+- [x] sketch 
+- [x] sketchpacks 
+- [x] iina 
+- [x] Teamviewer 
+- [x] webtorrent 
+- [x] imageoptim
+- [x] appcleaner 
+- [x] alfred 
+- [x] java
 
 # Not in install.sh
 
-- [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
-- [Code notes](https://electronjs.org/apps/code-notes)
-- Spark (App Store) 
-- xCode (App Store)
-- Pages (App Store)
-- Numbers (App Store)
-- MindNode (App Store)
+- [ ] [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
+- [ ] [Code notes](https://electronjs.org/apps/code-notes)
+- [ ] Spark (App Store) 
+- [ ] xCode (App Store)
+- [ ] Pages (App Store)
+- [ ] Numbers (App Store)
+- [ ] MindNode (App Store)
+- [ ] [🤫](https://mac-torrent-download.net)
 
 <br>
 
