@@ -49,6 +49,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [x] appcleaner 
 - [x] alfred 
 - [x] java
+- [x] Etcher
 
 # Not in install.sh
 
