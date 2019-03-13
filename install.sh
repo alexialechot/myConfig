@@ -12,7 +12,7 @@ curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fi
 brew cask install gitkraken visual-studio-code arduino \
 firefox google-chrome unity-hub handbrake onyx whatsapp  \
 iina Teamviewer webtorrent imageoptim sketch sketchpacks \
-appcleaner alfred java balenaetcher 
+appcleaner alfred java balenaetcher docker
 
 # install yarn
 brew install yarn
