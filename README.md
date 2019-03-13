@@ -43,13 +43,14 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [x] sketch 
 - [x] sketchpacks 
 - [x] iina 
-- [x] Teamviewer 
+- [x] teamviewer 
 - [x] webtorrent 
 - [x] imageoptim
 - [x] appcleaner 
 - [x] alfred 
 - [x] java
-- [x] Etcher
+- [x] etcher
+- [x] docker
 - [x] yarn
 
 # Not in install.sh
