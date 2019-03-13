@@ -50,6 +50,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [x] alfred 
 - [x] java
 - [x] Etcher
+- [x] yarn
 
 # Not in install.sh
 
