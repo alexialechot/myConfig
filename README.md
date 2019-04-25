@@ -62,9 +62,8 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 - [ ] Pages (App Store)
 - [ ] Numbers (App Store)
 - [ ] MindNode (App Store)
-- [ ] [🤫](https://mac-torrent-download.net)
-
 <br>
+
 
 # Brew commande
 ```
