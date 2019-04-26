@@ -13,16 +13,16 @@
 
 
 #### Custom font iTerm
-![alt text](img/iterm/font.png "iTerm")
+![iTerm](img/iterm/font.png)
 
 #### Custom color iTerm (material-design-color)
-![alt text](img/iterm/color.png "iTerm")
+![iTerm](img/iterm/color.png )
 
 #### Fix size window iTerm
-![alt text](img/iterm/size.png "iTerm")  
+![iTerm](img/iterm/size.png )  
 
 #### Custom tabs iTerm
-![alt text](img/iterm/tabs.png "iTerm")  
+![iTerm](img/iterm/tabs.png)  
 
 <br />
 
@@ -90,11 +90,11 @@ brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 # Alfred
 
 #### Preferences
-![alt text](img/alfred/1.png "Alfred")  
-![alt text](img/alfred/2.png "Alfred")  
-![alt text](img/alfred/3.png "Alfred")  
-![alt text](img/alfred/4.png "Alfred")  
-![alt text](img/alfred/5.png "Alfred")  
+![Alfred](img/alfred/1.png)  
+![Alfred](img/alfred/2.png)  
+![Alfred](img/alfred/3.png)  
+![Alfred](img/alfred/4.png)  
+![Alfred](img/alfred/5.png)  
 
 
 # Visual Studio Code
@@ -102,7 +102,18 @@ brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 ### Tacking back all my packages, themes, etc...
 #### 1. install Settings Sync 
 #### 2. past your Github Tocken & Gist 
-![alt text](img/vsc/sync.png "VSC") 
+![VSC](img/vsc/sync.png) 
+
+
+# Local Server
+
+### copy past "Labo" file there: ~/
+![local](img/local-server/labo.png)
+
+```sh
+cd /Labo/docker-lab/ 
+docker-compose up -d
+```
 
 <br><hr><br>
 
