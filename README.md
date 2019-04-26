@@ -11,14 +11,19 @@
 - Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file )
 
 
+
 #### Custom font iTerm
-![alt text](img/iterm_font-Custom.png "Logo Title Text 1")
+![alt text](img/iterm/font.png "iTerm")
 
 #### Custom color iTerm (material-design-color)
-![alt text](img/iterm-color.png "Logo Title Text 1")
+![alt text](img/iterm/color.png "iTerm")
 
 #### Fix size window iTerm
-![alt text](img/window-size.png "Logo Title Text 1")  
+![alt text](img/iterm/size.png "iTerm")  
+
+#### Custom tabs iTerm
+![alt text](img/iterm/tabs.png "iTerm")  
+
 <br />
 
 #### Run command 
@@ -81,6 +86,23 @@ brew doctor
 ```
 brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 ```
+
+# Alfred
+
+#### Preferences
+![alt text](img/alfred/1.png "Alfred")  
+![alt text](img/alfred/2.png "Alfred")  
+![alt text](img/alfred/3.png "Alfred")  
+![alt text](img/alfred/4.png "Alfred")  
+![alt text](img/alfred/5.png "Alfred")  
+
+
+# Visual Studio Code
+
+### Tacking back all my packages, themes, etc...
+#### 1. install Settings Sync 
+#### 2. past your Github Tocken & Gist 
+![alt text](img/vsc/sync.png "VSC") 
 
 <br><hr><br>
 
