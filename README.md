@@ -87,8 +87,18 @@ brew doctor
 brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 ```
 
-# Alfred
+# Local Server (Docker & Apaxy V2)
+### copy past "Labo" file there: ~/
+![local](img/local-server/labo.png)
+```sh
+cd /Labo/docker-lab/ 
+docker-compose up -d
+```
+![local](img/local-server/apaxy-v2.png)
 
+
+
+# Alfred
 #### Preferences
 ![Alfred](img/alfred/1.png)  
 ![Alfred](img/alfred/2.png)  
@@ -98,22 +108,11 @@ brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 
 
 # Visual Studio Code
-
 ### Tacking back all my packages, themes, etc...
 #### 1. install Settings Sync 
 #### 2. past your Github Tocken & Gist 
 ![VSC](img/vsc/sync.png) 
 
-
-# Local Server
-
-### copy past "Labo" file there: ~/
-![local](img/local-server/labo.png)
-
-```sh
-cd /Labo/docker-lab/ 
-docker-compose up -d
-```
 
 <br><hr><br>
 
