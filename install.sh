@@ -33,7 +33,8 @@ sudo easy_install pip
 brew cask install gitkraken visual-studio-code arduino \
 firefox google-chrome unity-hub handbrake onyx whatsapp  \
 iina Teamviewer webtorrent imageoptim sketch sketchpacks \
-appcleaner alfred java balenaetcher docker
+appcleaner alfred java balenaetcher docker insomnia \ 
+mongodb-compass openinterminal motrix
 
 # install global package node
 yarn global add tslint jshint eslint sass-lint webpack \
