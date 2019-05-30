@@ -34,29 +34,6 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 <br>
 
-# In install.sh
-
-- [x] gitkraken 
-- [x] visual-studio-code 
-- [x] arduino
-- [x] firefox 
-- [x] google-chrome 
-- [x] unity-hub 
-- [x] handbrake 
-- [x] onyx 
-- [x] whatsapp 
-- [x] sketch 
-- [x] sketchpacks 
-- [x] iina 
-- [x] teamviewer 
-- [x] webtorrent 
-- [x] imageoptim
-- [x] appcleaner 
-- [x] alfred 
-- [x] java
-- [x] etcher
-- [x] docker
-- [x] yarn
 
 # Not in install.sh
 
@@ -82,6 +59,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 brew doctor
 ```
+<br>
 
 
 # Install Fish theme + plugin
@@ -91,14 +69,20 @@ fisher add franciscolourenco/done
 fisher
 fisher self-update
 ```
-
+<br>
 
 # fish_config
-```
-brew update; brew upgrade; brew cleanup; brew cu -facy; rm -rf (brew --cache)
-yarn global upgrade; yarn cache clean
+```sh
+fish_config
 ```
 
+![preview fish config](img/fish/fish_config.png)
+
+```sh
+yarn global upgrade; yarn cache clean
+brew update; brew upgrade; brew cleanup; brew cu -facy; rm -rf (brew --cache)
+```
+<br>
 
 # Local Server (Docker & Apaxy V2)
 ### copy past "Labo" file there: ~/
