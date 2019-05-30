@@ -82,10 +82,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 ```
 brew doctor
 ```
-#### Up to date Brew + cleanning
-```
-brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
-```
+
 
 # Install Fish theme + plugin
 ```sh
@@ -95,6 +92,14 @@ fisher
 fisher self-update
 ```
 
+
+# fish_config
+```
+brew update; brew upgrade; brew cleanup; brew cu -facy; rm -rf (brew --cache)
+yarn global upgrade; yarn cache clean
+```
+
+
 # Local Server (Docker & Apaxy V2)
 ### copy past "Labo" file there: ~/
 ![local](img/local-server/labo.png)
@@ -103,7 +108,6 @@ cd /Labo/docker-lab/
 docker-compose up -d
 ```
 ![local](img/local-server/apaxy-v2.png)
-
 
 
 # Alfred
