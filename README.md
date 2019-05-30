@@ -87,7 +87,7 @@ brew doctor
 brew update; brew upgrade; brew cleanup; rm -rf (brew --cache)
 ```
 
-#### Install Fish theme + plugin
+# Install Fish theme + plugin
 ```sh
 fisher add fishpkg/fish-prompt-metro
 fisher add franciscolourenco/done
