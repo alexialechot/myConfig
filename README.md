@@ -61,16 +61,6 @@ brew doctor
 ```
 <br>
 
-
-# Install Fish theme + plugin
-```sh
-fisher add fishpkg/fish-prompt-metro
-fisher add franciscolourenco/done
-fisher
-fisher self-update
-```
-<br>
-
 # fish_config
 ```sh
 fish_config
