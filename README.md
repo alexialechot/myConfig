@@ -8,7 +8,7 @@
 - install [iTerm](https://iterm2.com)
 - install [Brew](https://brew.sh)
 - install [Fontpowerline](https://github.com/powerline/fonts) ( download zip )
-- Install [Material theme iTerm](https://github.com/MartinSeeler/iterm2-material-design) ( run .sh file )
+- Install [1984 theme iTerm](https://github.com/covertbert/iterm2-1984) ( run .sh file )
 
 
 
