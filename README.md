@@ -38,7 +38,6 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 # Not in install.sh
 
 - [ ] [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
-- [ ] [Code notes](https://electronjs.org/apps/code-notes)
 - [ ] Spark (App Store) 
 - [ ] xCode (App Store)
 - [ ] Pages (App Store)
