@@ -28,7 +28,7 @@ gitkraken visual-studio-code visual-studio arduino \
 firefox google-chrome unity-hub handbrake onyx whatsapp  \
 iina Teamviewer webtorrent imageoptim sketch sketchpacks \
 appcleaner alfred java balenaetcher docker insomnia \ 
-mongodb-compass-community openinterminal motrix bitwarden
+openinterminal motrix bitwarden
 
 # install global package node
 yarn global add tslint jshint eslint sass-lint webpack \
