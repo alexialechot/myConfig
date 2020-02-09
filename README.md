@@ -17,7 +17,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 <br><hr><br>
 
 # About my config
-#### Not in install.sh
+##### Not in install.sh
 - [ ] [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
 - [ ] Spark (App Store) 
 - [ ] xCode (App Store)
@@ -41,16 +41,16 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 <br><hr><br>
 
 # iTerm configuration
-#### Appearance
+##### Appearance
 ![iTerm](img/iterm/general.png)  
 ![iTerm](img/iterm/tabs.png)  
-#### Profile
+##### Profile
 ![iTerm](img/iterm/profile.png)
-#### Theme [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
+##### Theme [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
 ![iTerm](img/iterm/theme.png)
-#### Text
+##### Text
 ![iTerm](img/iterm/text.png)
-#### Bar
+##### Bar
 ![iTerm](img/iterm/bar1.png)
 ![iTerm](img/iterm/bar2.png)
 
@@ -89,7 +89,7 @@ docker-compose up -d
 <br><hr><br>
 
 # Visual Studio Code
-### Tacking back all my packages, themes, etc...
+##### Tacking back all my packages, themes, etc...
 1. install Settings Sync 
 2. past your Github Tocken & Gist 
 ![VSC](img/vsc/sync.png)
@@ -97,7 +97,7 @@ docker-compose up -d
 <br><hr><br>
 
 # Add "Open In Terminal" in Finder bar
-#### Apple settings
+##### Apple settings
 ![OIT](img/openinterminal/extentions.png)  
 
 <br><hr><br>
