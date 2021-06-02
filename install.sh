@@ -24,10 +24,9 @@ sudo easy_install pip
 
 # install software with cask
 brew cask install \
-gitkraken visual-studio-code visual-studio arduino \
-firefox google-chrome handbrake onyx whatsapp  \
-iina Teamviewer webtorrent imageoptim sketch sketchpacks \
-appcleaner alfred java openinterminal
+gitkraken visual-studio-code \
+firefox google-chrome handbrake onyx whatsapp \
+iina imageoptim sketch appcleaner alfred
 
 # install global package node
 yarn global add tslint jshint eslint sass-lint webpack \
