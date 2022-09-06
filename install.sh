@@ -23,10 +23,10 @@ reset
 sudo easy_install pip
 
 # install software with cask
-brew cask install \
+brew install --cask \
 gitkraken visual-studio-code \
 firefox google-chrome handbrake onyx whatsapp \
-iina imageoptim sketch appcleaner alfred
+iina imageoptim appcleaner alfred figma
 
 # install global package node
 yarn global add tslint jshint eslint sass-lint webpack \
