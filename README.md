@@ -5,7 +5,6 @@
 # 1. Install
 - install [iTerm](https://iterm2.com)
 - install [Brew](https://brew.sh)
-- install [Fontpowerline](https://github.com/powerline/fonts)
 - Install [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
 
 # 2. Run command 
@@ -18,11 +17,8 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 # About my config
 ##### Not in install.sh
-- [ ] [Adobe Creative Cloud](https://www.adobe.com/ch_fr/creativecloud/desktop-app.html)
 - [ ] Spark (App Store) 
 - [ ] xCode (App Store)
-- [ ] Pages (App Store)
-- [ ] Numbers (App Store)
 - [ ] MindNode (App Store)
 
 <br><hr><br>
