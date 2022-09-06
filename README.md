@@ -17,6 +17,7 @@ curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.
 
 # About my config
 ##### Not in install.sh
+- [ ] Dashlane (App Store)
 - [ ] Spark (App Store) 
 - [ ] xCode (App Store)
 - [ ] MindNode (App Store)
