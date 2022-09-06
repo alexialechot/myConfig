@@ -6,6 +6,7 @@
 - install [iTerm](https://iterm2.com)
 - install [Brew](https://brew.sh)
 - Install [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
+- Install [Fish](https://fishshell.com)
 
 # 2. Run command 
 ```sh
