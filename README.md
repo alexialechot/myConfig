@@ -102,6 +102,7 @@ docker-compose up -d
 
 # Default terminal in case of problem
 <img width="779" alt="Screenshot 2022-09-06 at 21 15 43" src="https://user-images.githubusercontent.com/30685658/188720447-7a9f33ca-8338-4ddd-b00d-d657660b492b.png"> 
+
 ```sh
 /bin/zsh
 ```
