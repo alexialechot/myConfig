@@ -3,7 +3,7 @@ brew tap dart-lang/dart
 brew tap buo/cask-upgrade
 
 brew install \
-    yarn wget fish php php-cs-fixer php-code-sniffer \
+    node yarn wget fish php php-cs-fixer php-code-sniffer \
     phpunit ctop golang dart composer screenfetch php \
     terminal-notifier shfmt
 
