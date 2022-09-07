@@ -7,6 +7,7 @@
 - install [Brew](https://brew.sh)
 - Install [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
 - Install [Fish](https://fishshell.com)<br>[config](https://stackoverflow.com/questions/66724016/my-fish-is-blind-fish-does-not-recognise-any-commands-after-setting-it-as-defa) ... be careful with fish
+- Install [Notion](https://www.notion.so/desktop)
 
 # 2. Run command 
 ```sh
