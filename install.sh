@@ -1,4 +1,4 @@
-# install fish + node
+# install
 brew tap dart-lang/dart
 brew tap buo/cask-upgrade
 
