@@ -8,22 +8,18 @@
 - Install [1984 theme iTerm](https://github.com/covertbert/iterm2-1984)
 - Install [Fish](https://fishshell.com)<br>[config](https://stackoverflow.com/questions/66724016/my-fish-is-blind-fish-does-not-recognise-any-commands-after-setting-it-as-defa) ... be careful with fish
 - Install [Notion](https://www.notion.so/desktop)
+- Install Dashlane (App Store)
+- Install Spark (App Store) 
+- Install xCode (App Store)
+- Install MindNode (App Store)
+
+<br><hr><br>
 
 # 2. Run command 
 ```sh
 # Only after brew install
 curl -sSL https://raw.githubusercontent.com/alexlechot/-myConfig/master/install.sh | sh
 ```
-
-<br><hr><br>
-
-# About my config
-##### Not in install.sh
-- [ ] Dashlane (App Store)
-- [ ] Spark (App Store) 
-- [ ] xCode (App Store)
-- [ ] MindNode (App Store)
-
 <br><hr><br>
 
 # Brew command reminders
